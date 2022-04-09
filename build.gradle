@@ -1,0 +1,5 @@
+subprojects {
+    plugins.apply('gamestore.java-conventions')
+    
+    sourceCompatibility = '17'
+}
