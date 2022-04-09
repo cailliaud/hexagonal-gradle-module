@@ -1,0 +1,1 @@
+# Hexagonal using Gradle subprojects
